@@ -1,2 +1,4 @@
-# random_WisdomQuotes_generatorReact
-Display a random wisdom quote react 
+# random_quotesGenerator_react
+=> Display a random famous or wisdom quotes
+=>  Vite and react app
+

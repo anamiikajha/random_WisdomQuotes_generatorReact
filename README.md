@@ -4,7 +4,7 @@ Display a random wisdom or famous quote, by quotable api.
 
 # Preview 
 
-- Overview
+- Overview of wisdomQuotes
 
 ![image](https://github.com/anamiikajha/wisdomQuotes/assets/89740849/f71cf1ba-bfa3-4be4-be88-a3f571037cec)
 

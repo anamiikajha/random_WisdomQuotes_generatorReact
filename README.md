@@ -1,6 +1,6 @@
 # wisdomQuotes 
 
-Display a random wisdom or famous quote, by quotable api.
+Display a random wisdom or famous quote, by fetching data from quotable api.
 
 # Preview 
 

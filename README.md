@@ -1,8 +1,10 @@
 # wisdomQuotes 
 
-Display a random wisdom or famous quote, by fetching data from quotable api.
+- Display a random wisdom or famous quote, by fetching data from  Quotable API.
 
-# Preview 
+- Quotable API free, open source REST API that provides access to a collection of famous quotes.
+  
+# Preview  
 
 - Overview of wisdomQuotes
 

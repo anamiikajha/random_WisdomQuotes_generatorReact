@@ -2,7 +2,7 @@
 
 - Display a random wisdom or famous quote, by fetching data from  Quotable API.
 
-- Quotable API free, open source REST API that provides access to a collection of famous quotes.
+- This app uses Quotable API free, open source REST API that provides access to a collection of famous quotes.
   
 # Preview  
 

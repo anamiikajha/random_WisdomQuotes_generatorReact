@@ -1,5 +1,11 @@
 # wisdomQuotes 
 
+## `Todo`
+
+- [ ] Random Background
+
+---
+
 - Display a random wisdom or famous quote, by fetching data from  Quotable API.
 
 - This app uses Quotable API free, open source REST API that provides access to a collection of famous quotes.

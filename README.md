@@ -4,6 +4,8 @@
 
 - [ ] Random Background
 
+- [x] Get Random Quotes
+
 ---
 
 - Display a random wisdom or famous quote, by fetching data from  Quotable API.

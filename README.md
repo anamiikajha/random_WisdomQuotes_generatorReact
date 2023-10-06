@@ -2,8 +2,7 @@
 
 ## `Todo`
 
-- [ ] Random Background
-
+- [ ] Random Background - suggestions/contributions are appreciated
 - [x] Get Random Quotes
 
 ---

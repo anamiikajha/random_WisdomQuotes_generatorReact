@@ -2,8 +2,8 @@
 
 ## `Todo`
 
-- [ ] Random Background - suggestions/contributions are appreciated
-- [x] Get Random Quotes
+- [ ] Random Background colors. - suggestions/contributions are appreciated.
+- [x] Get Random Quotes.
 
 ---
 - Simple quotes generator app.
